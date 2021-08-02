@@ -1,0 +1,16 @@
+.imagen {
+    padding-right: 5rem;
+    width: 125%;
+    height: 110%;
+}
+
+.title {
+    color: #fff;
+    margin-top: 11.5rem;
+}
+
+.text {
+    color: #fff;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+}

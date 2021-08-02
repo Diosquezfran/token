@@ -1,0 +1,13 @@
+.navbar{
+    background-color: transparent;
+}
+
+.logo {
+    height: 5.5rem;
+    width: 14.5rem;
+}
+
+.textLink {
+    color: white !important;
+    margin: 1rem !important;
+}
